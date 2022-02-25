@@ -19,16 +19,7 @@ from userbot.events import man_cmd, register
 from userbot.utils import edit_delete, edit_or_reply
 
 DEF_UNAPPROVED_MSG = (
-    "JASA TAMBAH ANGGOTA/MEMBER\n"
-    "GRUP TELEGRAM\n:"
-    "💥Real Aktif orang INDONESIA\n"
-    "💥Bisa request GRUP MANA YG MAU di ambil membernya\n"
-    "💥grup harus Publik\n"
-    "Admin :\n"
-    "@jasa_promosi_iklan\n"
-    "TESTIMONI REAL :\n"
-    "https://t.me/jasasosmed99\n"
-)
+    "halo kak, untuk list harga dan cara pemesanan nokos kamu bisa cek di* @Jual_Nokos_Telegram\n")
 
 
 @register(incoming=True, disable_edited=True, disable_errors=True)
