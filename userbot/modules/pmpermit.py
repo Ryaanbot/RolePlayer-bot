@@ -25,9 +25,7 @@ DEF_UNAPPROVED_MSG = (
     "💥Bisa request GRUP MANA YG MAU di ambil membernya\n"
     "💥grup harus Publik\n"
     "Contac Admin :\n"
-    "@jasa_promosi_iklan\n"
-    "TESTIMONI REAL :\n"
-    "https://t.me/jasasosmed99\n"
+    "@@siapjadidotcom\n"
 )
 
 
